@@ -1,0 +1,32 @@
+C:\Users\18479\source\repos\ASSMT 1\bin\Debug\net6.0-windows\ASSMT 1.exe
+C:\Users\18479\source\repos\ASSMT 1\bin\Debug\net6.0-windows\ASSMT 1.deps.json
+C:\Users\18479\source\repos\ASSMT 1\bin\Debug\net6.0-windows\ASSMT 1.runtimeconfig.json
+C:\Users\18479\source\repos\ASSMT 1\bin\Debug\net6.0-windows\ASSMT 1.dll
+C:\Users\18479\source\repos\ASSMT 1\bin\Debug\net6.0-windows\ASSMT 1.pdb
+C:\Users\18479\source\repos\ASSMT 1\obj\Debug\net6.0-windows\ASSMT_1.Form1.resources
+C:\Users\18479\source\repos\ASSMT 1\obj\Debug\net6.0-windows\ASSMT 1.csproj.GenerateResource.cache
+C:\Users\18479\source\repos\ASSMT 1\obj\Debug\net6.0-windows\ASSMT 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\18479\source\repos\ASSMT 1\obj\Debug\net6.0-windows\ASSMT 1.AssemblyInfoInputs.cache
+C:\Users\18479\source\repos\ASSMT 1\obj\Debug\net6.0-windows\ASSMT 1.AssemblyInfo.cs
+C:\Users\18479\source\repos\ASSMT 1\obj\Debug\net6.0-windows\ASSMT 1.csproj.CoreCompileInputs.cache
+C:\Users\18479\source\repos\ASSMT 1\obj\Debug\net6.0-windows\ASSMT 1.dll
+C:\Users\18479\source\repos\ASSMT 1\obj\Debug\net6.0-windows\refint\ASSMT 1.dll
+C:\Users\18479\source\repos\ASSMT 1\obj\Debug\net6.0-windows\ASSMT 1.pdb
+C:\Users\18479\source\repos\ASSMT 1\obj\Debug\net6.0-windows\ASSMT 1.genruntimeconfig.cache
+C:\Users\18479\source\repos\ASSMT 1\obj\Debug\net6.0-windows\ref\ASSMT 1.dll
+C:\Users\Moth\Downloads\HackathonDemo\ASSMT 1\bin\Debug\net6.0-windows\ASSMT 1.exe
+C:\Users\Moth\Downloads\HackathonDemo\ASSMT 1\bin\Debug\net6.0-windows\ASSMT 1.deps.json
+C:\Users\Moth\Downloads\HackathonDemo\ASSMT 1\bin\Debug\net6.0-windows\ASSMT 1.runtimeconfig.json
+C:\Users\Moth\Downloads\HackathonDemo\ASSMT 1\bin\Debug\net6.0-windows\ASSMT 1.dll
+C:\Users\Moth\Downloads\HackathonDemo\ASSMT 1\bin\Debug\net6.0-windows\ASSMT 1.pdb
+C:\Users\Moth\Downloads\HackathonDemo\ASSMT 1\obj\Debug\net6.0-windows\ASSMT_1.Form1.resources
+C:\Users\Moth\Downloads\HackathonDemo\ASSMT 1\obj\Debug\net6.0-windows\ASSMT 1.csproj.GenerateResource.cache
+C:\Users\Moth\Downloads\HackathonDemo\ASSMT 1\obj\Debug\net6.0-windows\ASSMT 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moth\Downloads\HackathonDemo\ASSMT 1\obj\Debug\net6.0-windows\ASSMT 1.AssemblyInfoInputs.cache
+C:\Users\Moth\Downloads\HackathonDemo\ASSMT 1\obj\Debug\net6.0-windows\ASSMT 1.AssemblyInfo.cs
+C:\Users\Moth\Downloads\HackathonDemo\ASSMT 1\obj\Debug\net6.0-windows\ASSMT 1.csproj.CoreCompileInputs.cache
+C:\Users\Moth\Downloads\HackathonDemo\ASSMT 1\obj\Debug\net6.0-windows\ASSMT 1.dll
+C:\Users\Moth\Downloads\HackathonDemo\ASSMT 1\obj\Debug\net6.0-windows\refint\ASSMT 1.dll
+C:\Users\Moth\Downloads\HackathonDemo\ASSMT 1\obj\Debug\net6.0-windows\ASSMT 1.pdb
+C:\Users\Moth\Downloads\HackathonDemo\ASSMT 1\obj\Debug\net6.0-windows\ASSMT 1.genruntimeconfig.cache
+C:\Users\Moth\Downloads\HackathonDemo\ASSMT 1\obj\Debug\net6.0-windows\ref\ASSMT 1.dll
